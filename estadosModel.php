@@ -6,3 +6,7 @@
  * and open the template in the editor.
  */
 
+ echo "Esto es un nuevo desarrollo";
+
+ echo "Esto es un cambio";
+
