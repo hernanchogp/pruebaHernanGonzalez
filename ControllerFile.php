@@ -3,8 +3,8 @@
 error_reporting(0);
 ini_set('display_errors', 0);
 
-include '../Model/usersModel.php';
-include '../Model/information_usersModel.php';
+include 'usersModel.php';
+include 'information_usersModel.php';
 /**
  * Controlador principal, manipulacion file
  */

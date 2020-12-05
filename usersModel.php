@@ -1,7 +1,7 @@
 <?php
 
-include_once  '../Persistencia/conexion.php';
-include_once  '../Model/Multifuncion.php';
+include_once  'conexion.php';
+include_once  'Multifuncion.php';
 class usersModel {
 
     private $db;

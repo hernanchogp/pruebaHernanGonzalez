@@ -1,6 +1,6 @@
 <?php
 
-include '../Configuracion/configuracionBD.php';
+include 'configuracionBD.php';
 
 class conexion {
 
