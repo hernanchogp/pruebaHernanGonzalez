@@ -1,5 +1,4 @@
 <?php
-
 include 'configuracionBD.php';
 
 class conexion {
